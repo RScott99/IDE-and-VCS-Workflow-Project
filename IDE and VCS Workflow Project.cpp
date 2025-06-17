@@ -9,7 +9,7 @@ int main()
 	// Store your initials in these variables
 	first = 'S';
 	middle = 'K';
-	last = 'S';
+	last = 's';
 	cout << first << middle << last << endl;
 	return 0;
 }
